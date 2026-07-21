@@ -1,0 +1,15 @@
+# Claude Code local skills (not part of the site)
+.claude/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Editor
+.vscode/
+
+# Vercel
+.vercel
+
+# Local test artifacts
+*.log
